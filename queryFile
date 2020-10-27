@@ -1,0 +1,12 @@
+/diseaseFrequency COVID-2019 20-01-2000 20-01-2015 
+/diseaseFrequency COVID-2019 20-01-2000 20-01-2015 Denmark
+/diseaseFrequency EVD 20-01-2000 20-01-2015
+/diseaseFrequency H1N1 20-01-2000 20-01-2015
+/diseaseFrequency HIV 20-01-2000 20-01-2015
+/topk-AgeRanges 2 China H1N1 20-01-2000 20-01-2015
+/numPatientAdmissions COVID-2019 20-01-2000 20-05-2020
+/numPatientAdmissions EVD 20-01-2000 20-05-2020 
+/numPatientAdmissions H1N1 20-01-2000 20-05-2020 Argentina
+/numPatientDischarges H1N1 20-01-2010 20-05-2020
+/numPatientDischarges COVID-2019 20-01-2001 20-05-2020 Egypt
+/searchPatientRecord 12
